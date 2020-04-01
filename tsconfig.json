@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "module": "AMD",
+        "sourceMap": true,
+        "outDir": "public/js"
+    },
+    "include": [
+        "src/**/*.ts"
+    ]
+}
